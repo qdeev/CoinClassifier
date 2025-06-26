@@ -74,8 +74,5 @@ app/src/main/java/com/project/coinclassifier/
 ## Установка и запуск
 
 1.  Клонируйте репозиторий:
-    ```bash
-    git clone https://your-repository-url/CoinClassifier.git
-    ```
 2.  Откройте проект в **Android Studio**.
 3.  Соберите проект и запустите его на эмуляторе или физическом устройстве. 
