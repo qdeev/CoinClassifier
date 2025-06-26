@@ -2,7 +2,7 @@
 
 Простое Android-приложение для классификации монет по изображению с использованием TensorFlow Lite и для ведения личной коллекции. Приложение полностью работает в офлайн-режиме.
 
-![GIF-демонстрация](https://github.com/user-attachments/assets/80ce0050-cb13-4b9f-bfd4-342828cd9354)
+![GIF-демонстрация](https://github.com/user-attachments/assets/16c38667-9d4f-45e8-8d39-1ff344103aab)
 
 ---
 
