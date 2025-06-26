@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CoinClassifier</string>
+    <string name="title_home">Home</string>
+    <string name="title_collection">Collection</string>
+
+    <!-- Home Screen -->
+    <string name="capture_image">Сделать фото</string>
+    <string name="load_image">Загрузить из галереи</string>
+
+    <!-- Result Screen -->
+    <string name="add_to_collection">Добавить в коллекцию</string>
+    <string name="collection_title">Коллекция</string>
+    <string name="confidence_format">Уверенность: %s</string>
+    <string name="detail_format">%s: %s</string>
+</resources>
